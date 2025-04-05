@@ -1,0 +1,23 @@
+{
+    "name": "teppokoivula/cookie-table",
+    "type": "pw-module",
+    "description": "A ProcessWire CMS/CMF module for adding a cookie table on your site.",
+    "keywords": [
+        "module",
+        "processwire"
+    ],
+    "homepage": "https://github.com/teppokoivula/CookieTable",
+    "license": "MPL-2.0",
+    "authors": [
+        {
+            "name": "Teppo Koivula",
+            "homepage": "https://github.com/teppokoivula",
+            "email": "teppo.koivula@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "processwire/processwire": ">=3.0.184",
+        "wireframe-framework/processwire-composer-installer": "^1.0.0"
+    }
+}
